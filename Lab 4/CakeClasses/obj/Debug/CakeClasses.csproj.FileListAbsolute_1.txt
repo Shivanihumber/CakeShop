@@ -1,0 +1,35 @@
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Lab3-OrderCake(The Bakery)-WithClasses\CakeClasses\bin\Debug\CakeClasses.dll
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Lab3-OrderCake(The Bakery)-WithClasses\CakeClasses\bin\Debug\CakeClasses.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Lab3-OrderCake(The Bakery)-WithClasses\CakeClasses\obj\Debug\CakeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Lab3-OrderCake(The Bakery)-WithClasses\CakeClasses\obj\Debug\CakeClasses.dll
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Lab3-OrderCake(The Bakery)-WithClasses\CakeClasses\obj\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\CakeClasses\bin\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\CakeClasses\bin\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\CakeClasses\obj\Debug\CakeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\CakeClasses\obj\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\CakeClasses\obj\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\CakeClasses\obj\Debug\CakeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\CakeClasses\obj\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\CakeClasses\obj\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\CakeClasses\bin\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\CakeClasses\bin\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\CakeClasses\obj\Debug\CakeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\CakeClasses\obj\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\CakeClasses\obj\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\CakeClasses\bin\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\CakeClasses\bin\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\CakeClasses\bin\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\CakeClasses\bin\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\CakeClasses\obj\Debug\CakeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\CakeClasses\obj\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\CakeClasses\obj\Debug\CakeClasses.pdb
+D:\Humber\C#.Net 2018\Week 7\Lab 7\CakeClasses\bin\Debug\CakeClasses.dll
+D:\Humber\C#.Net 2018\Week 7\Lab 7\CakeClasses\bin\Debug\CakeClasses.pdb
+D:\Humber\C#.Net 2018\Week 7\Lab 7\CakeClasses\obj\Debug\CakeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\C#.Net 2018\Week 7\Lab 7\CakeClasses\obj\Debug\CakeClasses.dll
+D:\Humber\C#.Net 2018\Week 7\Lab 7\CakeClasses\obj\Debug\CakeClasses.pdb
+D:\Humber\C#.Net 2018\Week 8\Lab 4\CakeClasses\obj\Debug\CakeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\C#.Net 2018\Week 8\Lab 4\CakeClasses\obj\Debug\CakeClasses.dll
+D:\Humber\C#.Net 2018\Week 8\Lab 4\CakeClasses\obj\Debug\CakeClasses.pdb
+D:\Humber\C#.Net 2018\Week 8\Lab 4\CakeClasses\bin\Debug\CakeClasses.dll
+D:\Humber\C#.Net 2018\Week 8\Lab 4\CakeClasses\bin\Debug\CakeClasses.pdb

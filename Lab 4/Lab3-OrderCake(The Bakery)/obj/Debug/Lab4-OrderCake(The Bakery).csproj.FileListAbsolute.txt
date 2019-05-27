@@ -1,0 +1,53 @@
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe.config
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\bin\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\bin\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab4-OrderCake(The Bakery).csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3_OrderCake_The_Bakery_.frmOrderCake.resources
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3_OrderCake_The_Bakery_.Properties.Resources.resources
+D:\Humber\Framework Programming CPAN 2016\Week 4\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab4-OrderCake(The Bakery).csproj.GenerateResource.Cache
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe.config
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab4-OrderCake(The Bakery)-WithClasses\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe.config
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab4-OrderCake(The Bakery).csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3_OrderCake_The_Bakery_.frmOrderCake.resources
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3_OrderCake_The_Bakery_.Properties.Resources.resources
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab4-OrderCake(The Bakery).csproj.GenerateResource.Cache
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\bin\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 5\Lab5-CustomCake\Lab3-OrderCake(The Bakery)\bin\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe.config
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\bin\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\bin\Debug\CakeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab4-OrderCake(The Bakery).csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3_OrderCake_The_Bakery_.frmOrderCake.resources
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3_OrderCake_The_Bakery_.Properties.Resources.resources
+D:\Humber\Framework Programming CPAN 2016\Week 5\Assignment1-SpecialCake\Lab3-OrderCake(The Bakery)\obj\Debug\Lab4-OrderCake(The Bakery).csproj.GenerateResource.Cache
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe.config
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\obj\Debug\Lab4-OrderCake(The Bakery).csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3_OrderCake_The_Bakery_.frmOrderCake.resources
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3_OrderCake_The_Bakery_.Properties.Resources.resources
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\obj\Debug\Lab4-OrderCake(The Bakery).csproj.GenerateResource.Cache
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).pdb
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\bin\Debug\CakeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\bin\Debug\CakeClasses.pdb
+D:\Humber\C#.Net 2018\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\bin\Debug\Lab3-OrderCake(The Bakery).exe.config
+D:\Humber\C#.Net 2018\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).exe
+D:\Humber\C#.Net 2018\Week 7\Lab 7\Lab3-OrderCake(The Bakery)\obj\Debug\Lab3-OrderCake(The Bakery).pdb

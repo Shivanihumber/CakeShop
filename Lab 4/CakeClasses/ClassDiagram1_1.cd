@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CakeClasses.Cake">
+    <Position X="5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAQAgAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CakeClasses.CustomCake">
+    <Position X="6.5" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEIIABACgEAAAAACAEAAAABAAAAAA=</HashCode>
+      <FileName>CustomCake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CakeClasses.Customer">
+    <Position X="1" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAIAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAAg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CakeClasses.Order">
+    <Position X="9.25" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAGAWAABgBAkAAAGgAAAAAAAAAAAAAACAAAgAAAQAAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="customer" />
+      <Property Name="Cake" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CakeClasses.SpecialCake">
+    <Position X="1.5" Y="4.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAEAAARAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpecialCake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
